@@ -1,0 +1,35 @@
+
+events = {
+    1: "You found a health potion! +3 Manpower",
+    2: "You stopped by STAMP and got some grub! +4 Food",
+    3: "You found a new sword! +5 Power",
+    4: "You gave an inspiring speech to the village. They look at you with more respect! +3 Reputation",
+    5: "You got a Canvas notification.. -3 Manpower, -3 Food",
+    6: "The village got access to your Canvas and looked at your grades. They stare at you in disgust. -5 Reputation",
+    7: "You lost your sword.. -5 Power",
+    8: "You found an abandoned village. While scavenging, you find some useful medical supplies. +6 Manpower, +2 Power",
+    9: "You got food poisoning from the food you ate earlier.. -3 Manpower, -6 Food",
+    10: "You bit your tongue. -5 Manpower",
+    11: "You decided to do some training to become stronger. +5 Power",
+    12: "You helped an old lady cross the path. +3 Reputation",
+    13: "You discover a vast orchard filled with ripe fruit. +4 Manpower, +3 Food",
+    14: "You found a chest with a live bomb in it. -7 Manpower",
+    15: "A chest you found contained some sick armor! +15 Manpower",
+    16: "You found an abandoned wagon filled to the brim with supplies. +8 Manpower, +6 Food, +10 Power",
+    17: "You decided to have a snack. +3 Food",
+    18: "You found a group being ambushed and saved them! +15 Reputation",
+    19: "You found a wandering blacksmith. She sharpened your weapon! +9 Power",
+    20: "Your village decided to play a prank on you, which backfired.. -7 Manpower",
+    21: "You overhear your village talking about your accomplishments! +10 Reputation",
+    22: "You overhear your village talking trash about you.. -10 Reputation",
+    23: "You accidentally burned your food.. -5 Food",
+    24: "You stub your toe. -10 Manpower",
+    25: "Nothing happens. (No stat changes)",
+    26: "Your party has a great feast in your honor! +15 Food, +10 Manpower, +5 Power, +10 Reputation",
+    27: "You were ambushed by ninjas. -4 Manpower, -6 Power",
+    28: "You tripped and fell trying to impress your party. -3 Manpower, -5 Reputation",
+    29: "Your village voted on who had the most aura. You somehow won. +10 Reputation",
+    30: "You had a sudden heart attack. You unfortunately did not make it."
+    
+}
+
